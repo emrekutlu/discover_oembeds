@@ -13,9 +13,6 @@ Requires [HTTparty](http://github.com/jnunemaker/httparty).
 
 	sudo gem install httparty
 
-Usage
-=====
-
 Create a migration.
 
 	script/generate migration create_oembeds
@@ -57,6 +54,8 @@ Copy this migration.
 
 	end
 
+Usage
+=====
 
 Just add <code>discover_oembeds</code> method to your model.
 
