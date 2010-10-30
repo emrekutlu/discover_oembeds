@@ -99,7 +99,7 @@ Providers must extend <code>DiscoverOembeds::Providers::Base</code>.
 		end
 	end
 
-There is an addition to oembed protocol which is <code>THUMB_PARAMS</code> to get a thumbnail which has different dimensions. It costs 2 requests.
+There is an addition to oembed protocol which is <code>THUMB_PARAMS</code> to get a thumbnail which has different dimensions. It costs extra one request.
 
 TODO
 ====
